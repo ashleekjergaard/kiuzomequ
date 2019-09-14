@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ugoocaiqu.garrett.computer/sitemap.xml
